@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1026 程序运行时间 (15分) pat", "1026 程序运行时间 (15分) pat\1026 程序运行时间 (15分) pat.vcxproj", "{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}.Debug|x64.ActiveCfg = Debug|x64
+		{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}.Debug|x64.Build.0 = Debug|x64
+		{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}.Debug|x86.Build.0 = Debug|Win32
+		{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}.Release|x64.ActiveCfg = Release|x64
+		{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}.Release|x64.Build.0 = Release|x64
+		{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}.Release|x86.ActiveCfg = Release|Win32
+		{EE24EE37-6405-4B6D-AE35-AF60DF89EF2C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F78DEE-F233-40DF-B38F-0AE96056E84E}
+	EndGlobalSection
+EndGlobal

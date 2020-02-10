@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\tr\source\repos\1026 程序运行时间 (15分) pat\1026 程序运行时间 (15分) pat\源.cpp(10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\tr\source\repos\1026 程序运行时间 (15分) pat\1026 程序运行时间 (15分) pat\源.cpp(13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\tr\source\repos\1026 程序运行时间 (15分) pat\1026 程序运行时间 (15分) pat\源.cpp(23): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“double”
+  1026 程序运行时间 (15分) pat.vcxproj -> C:\Users\TR\source\repos\1026 程序运行时间 (15分) pat\Debug\1026 程序运行时间 (15分) pat.exe
